@@ -58,7 +58,7 @@ hacker-skct-727823TUCY055/
 ├── screenshots/
 │   ├── (all experiment screenshots)
 │
-└── demo_notebook.ipynb
+
 ```
 
 ---
