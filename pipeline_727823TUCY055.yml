@@ -1,0 +1,12 @@
+project_name: Honeypot_727823TUCY055
+
+stages:
+  - setup:
+      script: setup_lab.py
+
+  - run:
+      script: run_tool.py
+
+  - analyze:
+      script: analyze_results.py
+
